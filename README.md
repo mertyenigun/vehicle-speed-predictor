@@ -3,6 +3,11 @@
 This project aims to estimate a vehicle's speed (km/h) using engine RPM and throttle position (%) data. It is built using real-world vehicle telematics data and machine learning techniques.
 
 ---
+## 🗂 Dataset Source
+
+This project uses real-world vehicle telemetry data from the following Kaggle dataset:
+
+🔗 [Levin Vehicle Telematics Dataset – by yunlevin](https://www.kaggle.com/datasets/yunlevin/levin-vehicle-telematics)
 
 ## 🎯 Objective
 
