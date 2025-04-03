@@ -38,8 +38,8 @@ This project aims to estimate a vehicle's speed (km/h) using engine RPM and thro
 ---
 
 ## 📈 Model Performance
-📦 **Download Compressed Model:**  
-[Click here to download the trained model (.pkl)](https://drive.google.com/file/d/1a2B3cD4EFG567/view?usp=sharing)
+📦 **Download Model:**  
+[Click here to download the trained model (.pkl)]([https://drive.google.com/file/d/1a2B3cD4EFG567/view?usp=sharing](https://drive.google.com/file/d/1YKG7j9f57xLVvK9Q5UpKiIHZ0dj5MqxM/view?usp=sharing))
 
 - 🎯 **R² Score:** 0.627  
 - 📉 **Mean Absolute Error (MAE):** 9.90 km/h  
