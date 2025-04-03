@@ -72,21 +72,9 @@ Users can:
 
 ---
 
-## 🗂️ Project Structure
 
-```
-vehicle_project/
-│
-├── app.py                     → Streamlit interface
-├── hiz_tahmin_modeli_grid.pkl → Optimized prediction model
-├── allcars.csv                → Original dataset
-├── v2.csv                     → Additional dataset
-├── README.md                  → This project documentation
-```
-
----
 
 ## 👤 Author
 
-**Miray Yenigün**  
+**Mert Yenigün**  
 [GitHub Profile](https://github.com/mertyenigun)
