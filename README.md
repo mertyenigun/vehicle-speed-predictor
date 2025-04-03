@@ -39,7 +39,12 @@ This project aims to estimate a vehicle's speed (km/h) using engine RPM and thro
 
 ## 📈 Model Performance
 📦 **Download Model:**  
-[Click here to download the trained model (.pkl)]([(https://drive.google.com/file/d/1YKG7j9f57xLVvK9Q5UpKiIHZ0dj5MqxM/view?usp=sharing)])
+You can download the compressed and optimized machine learning model from the link below:
+
+🔗 [Download Vehicle Speed Prediction Model (.pkl)](https://drive.google.com/uc?id=1YKG7j9f57xLVvK9Q5UpKiIHZ0dj5MqxM)
+
+> Note: Hosted on Google Drive due to GitHub file size limitations.
+
 
 - 🎯 **R² Score:** 0.627  
 - 📉 **Mean Absolute Error (MAE):** 9.90 km/h  
