@@ -44,7 +44,7 @@ This project uses real-world vehicle telemetry data from the following Kaggle da
 
 ## 📈 Model Performance
 📦 **Download Model:**  
-You can download the compressed and optimized machine learning model from the link below:
+You can download the machine learning model from the link below:
 
 🔗 [Download Vehicle Speed Prediction Model (.pkl)](https://drive.google.com/uc?id=1YKG7j9f57xLVvK9Q5UpKiIHZ0dj5MqxM)
 
@@ -53,7 +53,7 @@ You can download the compressed and optimized machine learning model from the li
 
 - 🎯 **R² Score:** 0.627  
 - 📉 **Mean Absolute Error (MAE):** 9.90 km/h  
-- 🧪 Prediction Range: **500 – 2500 RPM**
+- 🧪 Prediction Range: **500 – 4000 RPM**
 
 ---
 
